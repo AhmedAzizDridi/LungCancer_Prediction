@@ -1,0 +1,10 @@
+tensorflow==2.17.1           # or: tensorflow-cpu==2.17.1 (smaller image, no GPU)
+keras==3.5.0
+numpy>=1.26,<3
+pandas
+scikit-learn
+imbalanced-learn
+joblib
+matplotlib
+seaborn
+streamlit
